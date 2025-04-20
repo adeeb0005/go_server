@@ -1,1 +1,1 @@
-# go_server
+# This project is made for educational perpose
